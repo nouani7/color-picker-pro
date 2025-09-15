@@ -1,5 +1,5 @@
-# color picker Pro
-**color picker Pro is new windows tool that helps in choosing colors for your designs and works that depend on colors
+# Color Picker Pro
+**Color Picker Pro is new windows tool that helps in choosing colors for your designs and works that depend on colors
 The tool provides a spectrum of colors with all Hue of color and Modern Selected Colors .**
 
 **change log** 
@@ -37,7 +37,7 @@ Lightness is also a percentage; 0% is black, 100% is white.
 
 **Tool UI Screenshots**
 
-![color picker Pro](https://user-images.githubusercontent.com/11804864/173130508-2bd59e4b-15c6-4665-8e55-07c9a0ef3b49.png)
+![Color Picker Pro](https://user-images.githubusercontent.com/11804864/173130508-2bd59e4b-15c6-4665-8e55-07c9a0ef3b49.png)
 
 ![color piker 1](https://user-images.githubusercontent.com/11804864/184616911-1f1310f8-a695-41c6-8d67-d114beac7e59.png)
 ![color piker 2](https://user-images.githubusercontent.com/11804864/184616916-e8bfbbaf-a9b1-40b2-b8ff-11fea808d3a6.png)
